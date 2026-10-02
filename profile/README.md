@@ -11,7 +11,7 @@
 
 <br />
 
-Welcome to the official GitHub organization for **Nova Code**. We are a dedicated open-source collective hyper-focused on one singular mission: **building the most powerful, autonomous Agentic AI CLI in the world.**
+Welcome to the official GitHub organization for **Nova Code**. We are hyper-focused on one singular mission: **building the most powerful, autonomous Agentic AI CLI in the world.**
 
 Nova Code is designed to live directly in your terminal. It doesn't just generate code for you to copy and paste—it physically explores your workspace, reads your files, executes bash commands, and writes code in a continuous, autonomous loop.
 
@@ -40,5 +40,5 @@ To build a world-class CLI, we decoupled our architecture into 7 strictly typed,
 <br />
 
 <div align="center">
-  <i>Join us in redefining the command line experience.</i>
+  <i>Redefining the command line experience.</i>
 </div>
